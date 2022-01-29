@@ -49,5 +49,3 @@ do
 	io.read();
 	os.execute("cls");
 end
-
-print(alunos);
